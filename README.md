@@ -8,3 +8,7 @@ I am currently a Senior at CU Boulder studying Computer Science with a minor in 
 `Mind-Body-Voice`: Full stack Flutter application for my senior capstone. This project is sponsored by the Renee Crown Wellness Research Institute at CU. 
 
 `Happy Plant`: Native iOS application for taking care of house plants 🪴
+
+
+#### resume
+[calista_resume.pdf](https://github.com/calistanguyen/calistanguyen/files/8056609/calista_resume.pdf)
