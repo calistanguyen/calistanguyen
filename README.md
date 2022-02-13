@@ -10,5 +10,5 @@ I am currently a Senior at CU Boulder studying Computer Science with a minor in 
 `Happy Plant`: Native iOS application for taking care of house plants 🪴
 
 
-#### resume
-[calista_resume.pdf](https://github.com/calistanguyen/calistanguyen/files/8056609/calista_resume.pdf)
+#### here is my resume: 
+[resume](https://github.com/calistanguyen/calistanguyen/files/8056609/calista_resume.pdf)
