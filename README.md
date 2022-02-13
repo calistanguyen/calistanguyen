@@ -1,4 +1,4 @@
-### ✨ hello! my name is Calista!
+### ✨ hello!
 #### about me:
 
 I am currently a Senior at CU Boulder studying Computer Science with a minor in Technology, Arts, and Media. I also work part-time as a SWE intern at Asurion.
