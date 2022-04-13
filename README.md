@@ -11,4 +11,5 @@ I am currently a Senior at CU Boulder studying Computer Science with a minor in 
 
 
 #### here is my resume: 
-[resume](https://github.com/calistanguyen/calistanguyen/files/8056609/calista_resume.pdf)
+[resume](https://github.com/calistanguyen/calistanguyen/files/8477771/resume.no.phone.number.pdf)
+
